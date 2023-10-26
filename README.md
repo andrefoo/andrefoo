@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Andre, a Computing student. Let's go.
 
 <!--
 **andrefoo/andrefoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
